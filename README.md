@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Emily! I’ve been coding since I was 13 and now balance CS major with building full-stack apps. I’m a product and software dev nerd interested in applied AI, new ideas, and turning rough concepts into things people can actually use. So far, I’ve made Momentum-er, a Gen Z productivity app, and Meyay.AI, an agentic game and app studio. I’m usually learning, building, or convincing myself my next project will be small.
+Hey, I’m Emily! I’ve been coding since I was 13 and now I balance being a CS major with building full-stack apps. I’m a product and software dev nerd interested in applied AI, new ideas, and turning rough concepts into things people can actually use. So far, I’ve made Momentum-er, a Gen Z productivity app, and Meyay.AI, an agentic game and app studio. I’m usually learning, building, or convincing myself my next project will be small.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emily-h-profile/) 
